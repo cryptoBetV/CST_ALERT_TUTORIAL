@@ -3,12 +3,10 @@ How to CST ALERT Application by end-user
 
 
 # Wprowadzenie
-• Użyj swojego unikalnego adresu
-
-• W razie kłopotów wprowadź port na końcu adresu ```:80```
+... bla bla...
 
 
-# ALERT
+#  Jak ustawić ? | ALERT
 
 > Alert to typ powiadomienia który osadzony jest w wiadomości embed discord posiada ticker, cene, interwał oraz komentarz tradera.
 
@@ -35,8 +33,7 @@ How to CST ALERT Application by end-user
 ⚠️ Tekst wprowadzony poza separatorem ~~~ ... ~~~ będzie ignorowany.
 
 
-
-# POST
+# Jak ustawić ? | POST
 
 > Post to typ powiadomienia który osadzony jest w wiadomości embed discord posiada komentarz tradera.
 
